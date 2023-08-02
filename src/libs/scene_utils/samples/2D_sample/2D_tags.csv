@@ -1,0 +1,10 @@
+name,image_x,image_y,image_width_x,image_width_y,spatial_width_x,spatial_width_z,offset_x,offset_y
+upperLeft,0,0,100,100,5,10,-2.5,-5
+upperMiddle,49,0,100,100,5,10,-2.5,-5
+upperRight,99,0,100,100,5,10,-2.5,-5
+right,99,49,100,100,5,10,-2.5,-5
+lowerRight,99,99,100,100,5,10,-2.5,-5
+lowerMiddle,49,99,100,100,5,10,-2.5,-5
+lowerLeft,0,99,100,100,5,10,-2.5,-5
+left,0,49,100,100,5,10,-2.5,-5
+center,49,49,100,100,5,10,-2.5,-5
